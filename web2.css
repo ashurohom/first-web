@@ -1,0 +1,171 @@
+ 
+            .two{
+                float: left;
+                box-shadow: 0 4px 8px 0 rgba(252, 4, 4, 0.2);
+                transition: 0.3s;
+                width: 200px;
+                height: 310px;
+                background-color: aqua;
+                border-radius: 10%;
+                margin-left: 8%;
+                margin-top: 2%;
+                
+                
+            }
+            img.two{
+                width: 20px;
+                
+            }
+            .two:hover{
+                box-shadow: 0 8px 8px 0 rgb(255, 255, 255);
+            }
+            div.container1{
+                padding: 2px 16px;
+                text-align: center;
+            }
+            .btn12{
+                height: 35px;
+                width: 90px;
+                color: rgb(0, 0, 0);
+                background-color: turquoise;
+                font-size: 20px;
+                font-family: Georgia;
+                font-weight: bold;
+                border: 1px solid black;
+                border-radius: 30px;
+                box-shadow: 3px 3px rgb(49, 109, 118);
+                cursor: pointer;
+            }
+            .btn12:hover{
+                background: skyblue;
+            }
+
+/*------------------------------------------------------------------------*/
+            
+            .three{
+                float: left;
+                box-shadow: 0 4px 8px 0 rgba(252, 4, 4, 0.2);
+                transition: 0.3s;
+                width: 200px;
+                height: 310px;
+                background-color: aqua;
+                border-radius: 10%;
+                margin-left: 8%;
+                margin-top: 2%;
+                
+                    
+                    
+                }
+                img.three{
+                    width: 20px;
+                    height: 20px;
+                }
+                .three:hover{
+                    box-shadow: 0 8px 8px 0 rgb(255, 255, 255);
+                }
+                div.container2{
+                    padding: 2px 16px;
+                    text-align: center;
+                }
+                .btn13{
+                    height: 35px;
+                    width: 90px;
+                    color: rgb(0, 0, 0);
+                    background-color: turquoise;
+                    font-size: 20px;
+                    font-family: Georgia;
+                    font-weight: bold;
+                    border: 1px solid black;
+                    border-radius: 30px;
+                    box-shadow: 3px 3px rgb(49, 109, 118);
+                    cursor: pointer;
+                }
+                .btn13:hover{
+                    background: skyblue;
+                }
+/*------------------------------------------------------------------------*/
+
+
+    .four{
+        float: right;
+        box-shadow: 0 4px 8px 0 rgba(252, 4, 4, 0.2);
+        transition: 0.3s;
+        width: 200px;
+        height: 310px;
+        background-color: aqua;
+        border-radius: 10%;
+        margin-right: 8%;
+        margin-top: 2%;
+    
+    
+    }
+    img.four{
+        width: 20px;
+        height: 20px;
+    }
+    .four:hover{
+        box-shadow: 0 8px 8px 0 rgba(255, 255, 255);
+    }
+    div.container3{
+        padding: 2px 16px;
+        text-align: center;
+    }
+    .btn14{
+        height: 35px;
+        width: 90px;
+        color: rgb(0, 0, 0);
+        background-color: turquoise;
+        font-size: 20px;
+        font-family: Georgia;
+        font-weight: bold;
+        border: 1px solid black;
+        border-radius: 30px;
+        box-shadow: 3px 3px rgb(49, 109, 118);
+        cursor: pointer;
+    }
+    .btn14:hover{
+        background: skyblue;
+    }
+/*------------------------------------------------------------------------*/
+
+    .five{
+        float: right;
+        box-shadow: 0 4px 8px 0 rgba(252, 4, 4, 0.2);
+        transition: 0.3s;
+        width: 200px;
+        height: 310px;
+        background-color: aqua;
+        border-radius: 10%;
+        margin-right: 8%;
+        margin-top: 2%;
+
+
+    }
+    img.five{
+        width: 20px;
+        height: 20px;
+    }
+    .five:hover{
+        box-shadow: 0 8px 8px 0 rgba(255, 255, 255);    
+    }
+    div.container4{
+        padding: 2px 16px;
+        text-align: center;
+    }
+    .btn15{
+        height: 35px;
+        width: 90px;
+        color: rgb(0, 0, 0);
+        background-color:turquoise;
+        font-size: 20px;
+        font-family: Georgia;
+        font-weight: bold;
+        border: 1px solid black;
+        border-radius: 30px;
+        box-shadow: 3px 3px rgb(49, 109, 118);
+        cursor: pointer;
+    }
+    .btn15:hover{
+        background: skyblue;
+    }
+/*------------------------------------------------------------------------*/

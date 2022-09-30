@@ -1,0 +1,188 @@
+.body{
+    background-image: url("images/background.jpeg");
+
+}
+
+h1{        
+    color:brown;
+    text-align: ;
+    text-align: center;
+    width: 1900px;
+    height: 50px;
+    margin-top: 20px;
+    font-size: 50px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-shadow: 2px 1px 2px rgb(164, 160, 160);
+    
+}
+
+.super{
+    font-size: 17px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: black;
+}
+
+.btn{
+    
+    height: 50px;
+    margin-top: 1%;
+    background: transparent;
+    border-radius: 20px;
+    margin-left: 30%;
+    margin-right: 33%;
+    padding-bottom: 0.1%;
+    padding-top: 0.5%;
+}
+
+
+.btn1{
+    height: 35px;
+    width: 90px;
+    padding-bottom: 1%;
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    font-size: 20px;
+    font-family: Georgia;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-top: 0.5px;
+    box-shadow: 3px 3px rgb(49, 109, 118);
+    cursor: pointer;
+    padding-top: 10px;
+    
+    
+}
+.btn1:hover{
+    background: rgb(234, 240, 242);
+}
+
+.btn2{
+    height: 35px;
+    width: 90px;
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+    font-size: 20px;
+    font-family: Georgia;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 0.5px;
+    box-shadow: 3px 3px rgb(49, 109, 118);
+    cursor: pointer;
+    padding-top: 10px;
+
+}
+.btn2:hover{
+    background: rgb(234, 240, 242);
+}
+
+.btn3{
+    height: 35px;
+    width: 90px;
+    color: rgb(0, 0, 0);
+    background-color:transparent;
+    font-size: 20px;
+    font-family: Georgia;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 0.5px;
+    box-shadow: 3px 3px rgb(49, 109, 118);
+    cursor: pointer;
+    padding-top: 10px;
+
+}
+.btn3:hover{
+    background: rgb(234, 240, 242);
+}
+
+.btn4{
+    height: 35px;
+    width: 90px;
+    color: rgb(0, 0, 0);
+    background-color:transparent;
+    font-size: 20px;
+    font-family: Georgia;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 0.5px;
+    box-shadow: 3px 3px rgb(49, 109, 118);
+    cursor: pointer;
+    padding-top: 10px;
+
+}
+.btn4:hover{
+    background: rgb(234, 240, 242);
+}
+
+.btn5{
+    height: 35px;
+    width: 90px;
+    color: rgb(0, 0, 0);
+    background-color:transparent;
+    font-size: 20px;
+    font-family: Georgia;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-top: 0.5px;
+    box-shadow: 3px 3px rgb(49, 109, 118);
+    cursor: pointer;
+    padding-top: 10px;
+
+}
+.btn5:hover{
+    background: rgb(234, 240, 242);
+}
+
+/* -----------------------------------------------------*/
+
+.one{
+    float: left;
+    box-shadow: 0 4px 8px 0 rgba(252, 4, 4, 0.2);
+    transition: 0.3s;
+    width: 200px;
+    height: 310px;
+    background-color: aqua;
+    border-radius: 10%;
+    margin-left: 8%;
+    margin-top: 2%;
+    
+}
+img.one{
+    width: 20px;
+    
+}
+.one:hover{
+    box-shadow: 0 8px 8px 0 rgb(255, 255, 255);
+}
+div.container{
+    padding: 2px 16px;
+    text-align: center;
+}
+
+.btn11{
+    height: 35px;
+    width: 90px;
+    padding-bottom: 0%;
+    color: rgb(0, 0, 0);
+    background-color: turquoise;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Georgia;
+    border: 1px solid black;
+    border-radius: 30px;
+    box-shadow: 3px 3px rgb(49, 109, 118);
+    cursor: pointer;
+    
+}
+.btn11:hover{
+    background: skyblue;
+}
